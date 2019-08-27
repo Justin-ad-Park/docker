@@ -1,0 +1,7 @@
+version: "3"
+services:
+  echo:
+    image: justinpark/echo:latest
+    ports:
+      - 9000:8080
+
