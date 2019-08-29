@@ -1,3 +1,3 @@
-./03.docker_swarm_join.sh worker01 SWMTKN-1-3xtb84cqi853my7ahjbhiht2yoylf685ped0yh735dgq7f6s3r-ei1vnd9enfq9ymtpm8u4g949s
-./03.docker_swarm_join.sh worker02 SWMTKN-1-3xtb84cqi853my7ahjbhiht2yoylf685ped0yh735dgq7f6s3r-ei1vnd9enfq9ymtpm8u4g949s
-./03.docker_swarm_join.sh worker03 SWMTKN-1-3xtb84cqi853my7ahjbhiht2yoylf685ped0yh735dgq7f6s3r-ei1vnd9enfq9ymtpm8u4g949s
+./03.docker_swarm_join.sh worker01 SWMTKN-1-47a14bqyjsi8poj4xiywfqho35d6ku57qzsm504c6rmy0tsdsm-9ag5jr0exjmdywhs7bvxvznqm
+./03.docker_swarm_join.sh worker02 SWMTKN-1-47a14bqyjsi8poj4xiywfqho35d6ku57qzsm504c6rmy0tsdsm-9ag5jr0exjmdywhs7bvxvznqm
+./03.docker_swarm_join.sh worker03 SWMTKN-1-47a14bqyjsi8poj4xiywfqho35d6ku57qzsm504c6rmy0tsdsm-9ag5jr0exjmdywhs7bvxvznqm
