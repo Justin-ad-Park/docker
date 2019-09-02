@@ -1,1 +1,1 @@
-docker image build -t justinpark/mysql-data:latest 
+docker image build -t justinpark/mysql-data:latest .
